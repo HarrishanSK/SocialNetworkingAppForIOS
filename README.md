@@ -1,9 +1,7 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+#Employ - A Social Networking App for IOS 
 
-\f0\fs24 \cf0 To run this project you need a mac running Mac OS 10.13.2 or later. \
-Open the project on Xcode11 running swift4.}
+I built my own social networking platform from scratch for a job employment application on IOS which included features such as: a friend request system, an intelligent search function, a unique job management system, a user location tracking system with the integration of a Google API and a Distance Matrix API was integrated to calculate distances and durations between users. A cloud hosted JSON tree was used to store, retrieve and manage data. This project was accomplished using: a large number of self-taught skills, development of my own algorithms and extensive research.
+
+See './EmployPresentation.pdf' for an overview of the software that was developed and for screenshots & UML diagrams of the final product.
+Code can be found in the './employ' and must be run on a a mac running Mac OS 10.13.2 or later.
+Open the project on Xcode11 running swift4.
