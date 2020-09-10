@@ -11,6 +11,8 @@ When a user logs in through the log in page the entered credentials are sent to 
 
 ![alt text](https://github.com/HarrishanSK/SocialNetworkingAppForIOS/blob/master/images/image2.png)
 
+The above 2 pages show the contacts and info pages. The contact page stores a list of users who you have connected with using the app (similar to a friend list on facebook). The info page provides helpful information to navigate around the app.
+
 ![alt text](https://github.com/HarrishanSK/SocialNetworkingAppForIOS/blob/master/images/image3.png)
 ![alt text](https://github.com/HarrishanSK/SocialNetworkingAppForIOS/blob/master/images/image4.png)
 
