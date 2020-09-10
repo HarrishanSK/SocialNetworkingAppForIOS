@@ -13,9 +13,14 @@ When a user logs in through the log in page the entered credentials are sent to 
 
 The above 2 pages show the contacts and info pages. The contact page stores a list of users who you have connected with using the app (similar to a friend list on facebook). The info page provides helpful information to navigate around the app.
 
-![alt text](https://github.com/HarrishanSK/SocialNetworkingAppForIOS/blob/master/images/image3.png)
 ![alt text](https://github.com/HarrishanSK/SocialNetworkingAppForIOS/blob/master/images/image4.png)
+When the user clicks on a contact the above transition takes place. The user will be able to: view information about the contact, call or message and even see how far away the contact is from the users location. Furtheremore, the duration for the user to meet the contact will be shown withh different methods of transportation (e.g: car, cycle, public transport or by walking).
 
+![alt text](https://github.com/HarrishanSK/SocialNetworkingAppForIOS/blob/master/images/image3.png)
+The above image shows some examples when using the search engine. A user (employer) can type a problem or keyword into the search engine, the algorithm will then use keyword analysis techniques to recocomend a list of freelance workers (employees) (nearby based on who is closest) to fix the 'problem'.
+
+
+More info:
 See './EmployPresentation.pdf' for an overview of the software that was developed and for screenshots & UML diagrams of the final product.
 Code can be found in the './employ' and must be run on a a mac running Mac OS 10.13.2 or later.
 Open the project on Xcode11 running swift4.
